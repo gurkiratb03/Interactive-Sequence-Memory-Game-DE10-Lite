@@ -32,11 +32,11 @@ The Interactive Sequence Memory Game is a captivating project designed for the F
 
 ## Playing Instructions
 
-1. Game Activation: Press the designated button on the DE10 Lite board to start the game, which opens with an introductory display on the LEDRs.
-2. Sequence Observation: Focus on the LEDR display as it presents a sequence of numbers and letters, which grows more intricate at each stage.
-3. Sequence Imitation: Utilize the DE10 Lite board's switches to duplicate the sequence displayed by the LEDRs, with each switch corresponding to a particular element in the sequence.
-4. Answer Confirmation: Once you have entered the sequence, hit the second button to confirm your input.
-5. Level Progression: Succeed in replicating the sequence correctly to progress to the subsequent level, as the game monitors your success and escalates the challenge.
+1. **Game Activation:** Press the designated button on the DE10 Lite board to start the game, which opens with an introductory display on the LEDRs.
+2. **Sequence Observation:** Focus on the LEDR display as it presents a sequence of numbers and letters, which grows more intricate at each stage.
+3. **Sequence Imitation:** Utilize the DE10 Lite board's switches to duplicate the sequence displayed by the LEDRs, with each switch corresponding to a particular element in the sequence.
+4. **Answer Confirmation:** Once you have entered the sequence, hit the second button to confirm your input.
+5. **Level Progression:** Succeed in replicating the sequence correctly to progress to the subsequent level, as the game monitors your success and escalates the challenge.
 
 
 ## Description of Files
