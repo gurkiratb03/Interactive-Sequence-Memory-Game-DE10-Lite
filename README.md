@@ -39,7 +39,7 @@ Interactive Sequence Memory Game with 5 levels using numbers and letters, that w
 
 # Files Description
 
-* ''' ClockDividerFAST.v ''' & ClockDividerSLOW.v: Modules for controlling the timing of sequences displayed to the player.
+* ClockDividerFAST.v & ClockDividerSLOW.v: Modules for controlling the timing of sequences displayed to the player.
 * DE10_LITE_Golden_Top.v: The top module that integrates all components of the game.
 * display.v & displayLetters.v: Modules responsible for displaying numbers and letters on the LEDR's.
 * lfsr10bit.v: A module for generating random sequences using a linear-feedback shift register.
