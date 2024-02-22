@@ -31,7 +31,7 @@ Interactive Sequence Memory Game with 5 levels using numbers and letters, that w
 * Timing Accuracy: Guarantees precise control over the display of sequences and response times.
 * Score Update: Accurately tracks and displays scores after each level.
 
-# How to Play
+## How to Play
 
 1. Starting the Game: Use the button on the DE10 Lite board to begin. The game initiates with a brief introduction sequence on the LEDR display.
 2. Watching the Sequence: Pay attention to the sequence shown on the LEDR's. The game will display a series of numbers and letters, increasing in complexity with each level.
@@ -39,7 +39,7 @@ Interactive Sequence Memory Game with 5 levels using numbers and letters, that w
 4. Submitting Your Answer: After inputting the sequence, press the second button to submit your answer.
 5. Advancing Through Levels: If the sequence is correctly inputted, you'll move on to the next level. The game tracks your progress and adjusts the difficulty accordingly.
 
-# Files Description
+## Files Description
 
 * ClockDividerFAST.v & ClockDividerSLOW.v: Modules for controlling the timing of sequences displayed to the player.
 * DE10_LITE_Golden_Top.v: The top module that integrates all components of the game.
