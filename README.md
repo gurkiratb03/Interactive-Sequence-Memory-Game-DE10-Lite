@@ -19,7 +19,7 @@ The Interactive Sequence Memory Game is a captivating project designed for the F
 
 ## Combinational Logic
 
-- _**Input-Output Correspondence:**_ Ensures that the appropriate LEDR responds to each switch input.
+- **Input-Output Correspondence:** Ensures that the appropriate LEDR responds to each switch input.
 - **Real-Time Response:** The game provides immediate acknowledgment of right or wrong sequence entries.
 - **Immediate Error Signaling:** Instantly flags any input that doesn't match the expected sequence.
 
