@@ -2,8 +2,7 @@
 
 ## Project Description
 
-The Sequence Memory Game is an interactive FPGA-based design project aimed at challenging users to memorize and replicate sequences using both numbers and letters across five levels. Built for the DE10 Lite board, which is powered by an FPGA, this game leverages the unique capabilities of FPGAs for real-time processing and interaction. FPGAs allow for high customization and efficiency in handling the game's combinational and sequential logic, making it possible to create a dynamic and engaging experience. Users physically interact with the game through buttons, LEDR displays, and switches on the FPGA board. The goal is to engage users in a fun and challenging way to test their memory and attention to detail, showcasing the versatility and power of FPGA technology in creating interactive digital projects.
-Interactive Sequence Memory Game with 5 levels using numbers and letters, that would challenge users to physically interact with the board. Using the button on the DE10 Lite board to start the game, the LEDR’s to display the sequence that needs to be repeated, use the switches to mimic the shown sequence in the exact same order and lastly the use of a second button to indicate that the player has finished the sequence. There will also be a time limit for each level that will decrease each time a higher level is achieved. All 9 LEDR’s will be used and as the levels progress, the generated sequence will become harder to mimic due to a rapid clock time.
+The Interactive Sequence Memory Game is a captivating project designed for the FPGA-based DE10 Lite board, challenging participants to remember and replicate a series of numbers and letters. This endeavor spans five increasingly difficult levels, harnessing the FPGA's bespoke real-time processing capabilities for a compelling, real-time interactive experience. The game ingeniously utilizes the FPGA’s ability to efficiently process complex logic, enabling a lively and immersive gameplay experience. Players engage with the game by using the board's buttons, LEDR displays, and switches, sharpening their memory and concentration skills. The game not only provides entertainment but also demonstrates the adaptability and strength of FPGA technology for interactive digital designs. Gameplay involves initiating the challenge with a button press, observing the LEDR-displayed sequence, and then accurately reconstructing it using the board's switches. A second button confirms the completion of the sequence. To intensify the challenge, each advancing level shortens the available time to complete the sequence, and the clock speed increases, making the sequences more difficult to follow. All nine LEDRs are utilized, ensuring a comprehensive and escalating test of the player’s memory as they progress through the game’s stages.
 
 ## Functionality 
 
@@ -18,18 +17,18 @@ Interactive Sequence Memory Game with 5 levels using numbers and letters, that w
 
 ## Testable Features
 
-## Combinational Logic 
+## Combinational Logic
 
-* Input-Output Matching: Ensures the correct LEDR lights up corresponding to each switch input.
-* Instant Feedback: The game recognizes and indicates correct or incorrect sequences without delay.
-* Error Detection: Identifies and signals any incorrect sequence inputs immediately.
+- `Input-Output Correspondence`: Ensures that the appropriate LEDR responds to each switch input.
+- `Real-Time Response`: The game provides immediate acknowledgment of right or wrong sequence entries.
+- `Immediate Error Signaling`: Instantly flags any input that doesn't match the expected sequence.
 
- ## Sequential Logic 
+## Sequential Logic
 
-* Memory Retention: Confirms the consistent storage of sequences across levels.
-* State Transitions: Validates smooth progression through the game's stages.
-* Timing Accuracy: Guarantees precise control over the display of sequences and response times.
-* Score Update: Accurately tracks and displays scores after each level.
+- `Sequence Storage Verification`: Maintains the integrity of sequence memory throughout the game.
+- `Smooth Stage Navigation`: Ensures seamless transitions from one level to the next.
+- `Precise Timing Control`: Maintains strict timing for sequence display and player input recognition.
+- `Score Tracking`: Keeps an accurate tally of the player's score following the completion of each stage.
 
 ## How to Play
 
