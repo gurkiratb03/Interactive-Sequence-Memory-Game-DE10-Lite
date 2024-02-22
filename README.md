@@ -30,7 +30,7 @@ The Interactive Sequence Memory Game is a captivating project designed for the F
 - `Precise Timing Control`: Maintains strict timing for sequence display and player input recognition.
 - `Score Tracking`: Keeps an accurate tally of the player's score following the completion of each stage.
 
-## How to Play
+## Playing Instructions
 
 1. Game Activation: Press the designated button on the DE10 Lite board to start the game, which opens with an introductory display on the LEDRs.
 2. Sequence Observation: Focus on the LEDR display as it presents a sequence of numbers and letters, which grows more intricate at each stage.
@@ -39,7 +39,7 @@ The Interactive Sequence Memory Game is a captivating project designed for the F
 5. Level Progression: Succeed in replicating the sequence correctly to progress to the subsequent level, as the game monitors your success and escalates the challenge.
 
 
-## Files Description
+## Description of Files
 
 * `ClockDividerFAST.v` & `ClockDividerSLOW.v`: Modules for controlling the timing of sequences displayed to the player.
 * `DE10_LITE_Golden_Top.v`: The top module that integrates all components of the game.
