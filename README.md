@@ -31,11 +31,11 @@ Interactive Sequence Memory Game with 5 levels using numbers and letters, that w
 
 # How to Play
 
-**1.** Starting the Game: Use the button on the DE10 Lite board to begin. The game initiates with a brief introduction sequence on the LEDR display.
-**2.** Watching the Sequence: Pay attention to the sequence shown on the LEDR's. The game will display a series of numbers and letters, increasing in complexity with each level.
-**3.** Repeating the Sequence: Use the switches on the DE10 Lite board to replicate the shown sequence. Each switch corresponds to a specific number or letter displayed by the LEDRs.
-**4.** Submitting Your Answer: After inputting the sequence, press the second button to submit your answer.
-**5.** Advancing Through Levels: If the sequence is correctly inputted, you'll move on to the next level. The game tracks your progress and adjusts the difficulty accordingly.
+1. Starting the Game: Use the button on the DE10 Lite board to begin. The game initiates with a brief introduction sequence on the LEDR display.
+2. Watching the Sequence: Pay attention to the sequence shown on the LEDR's. The game will display a series of numbers and letters, increasing in complexity with each level.
+3. Repeating the Sequence: Use the switches on the DE10 Lite board to replicate the shown sequence. Each switch corresponds to a specific number or letter displayed by the LEDRs.
+4. Submitting Your Answer: After inputting the sequence, press the second button to submit your answer.
+5. Advancing Through Levels: If the sequence is correctly inputted, you'll move on to the next level. The game tracks your progress and adjusts the difficulty accordingly.
 
 # Files Description
 
